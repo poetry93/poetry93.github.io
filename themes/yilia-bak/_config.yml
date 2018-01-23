@@ -4,15 +4,15 @@ menu:
   所有文章: /archives
   #随笔: /tags/随笔
   #标签: /tags
-  关于&留言: /about
+  #关于&留言: /about
   #相册: /photo
   #留言板: /msg          #hexo new page "msg"
 
 # SubNav
 subnav:
   github: "https://github.com/poetries"
-  weibo: "http://weibo.com/poetries1"
-  mail: "mailto:p@poetries.top"
+  #weibo: "http://weibo.com/poetries1"
+  mail: "mailto:me@poetries.top"
   rss: /atom.xml
   jianshu: "http://www.jianshu.com/users/94077fcddfc0/latest_articles"
   #zhihu: "#"
@@ -66,9 +66,9 @@ counter: true
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 专注于前端
+aboutme: 90后,程序员,热爱编程,执念代码与文学的海洋
 
 #是否开启打赏功能
 donate: true
 #打赏文案
-donate_message: Enjoy it ? Donate me !  欣赏此文？求鼓励，求支持！
+donate_message: 欣赏此文?求鼓励,求支持！
