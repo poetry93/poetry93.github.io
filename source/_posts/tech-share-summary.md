@@ -23,6 +23,8 @@ categories: 分享总结
 - 以`Processing`作为可视化的语言——它起始于2001年，它最初是面向美术工作者和设计者创建的，后来变成了全面的设计和原型工具，可以用于创建复杂数据可视化领域
 - `Processing`被带入了到`Web`领域产生了`Processing.js`，还出现了`D3.js`
 
+<!--more-->
+
 #### 1.1.2 移动端应用 Cordova
 
 > 接着就是`PhoneGap`（今天的`Cordova`），将`WebView`带向了移动应用，也将`JavaScript`带向了移动应用
