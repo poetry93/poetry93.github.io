@@ -12,7 +12,7 @@ categories: 人际交往
 
 - 人脉是用来帮助自己完成梦想、达成目标的
 
-![](https://medias.zaih.com/1fdafb622985f6b8f81a33ad0713_1125x1201.jpg)
+![](http://7xq6al.com1.z0.glb.clouddn.com/sunwukongrenmai.jpg)
 
 <!--more-->
 
@@ -38,9 +38,5 @@ categories: 人际交往
 自检参考图
 ---
 
-![](https://medias.zaih.com/02f7bd328f0ae768f83824d8836a_1125x3571.jpg)
-
-![](https://medias.zaih.com/02f7bd328f0ae768f83824d8836a_1125x3571.jpg)
-
-![](https://medias.zaih.com/02f7bd328f0ae768f83824d8836a_1125x3571.jpg)
+![](http://7xq6al.com1.z0.glb.clouddn.com/job-connections-2-1.jpg)
 
