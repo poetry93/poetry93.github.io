@@ -33,6 +33,6 @@ categories: 人际交往
 
 - 这100人，我每月至少联系一次。我不断的沟通和提供附加价值，与他们保持良好关系。并随时根据自己的职业目标情况变化，加深与某些人的关系，让他们变为我的关键关系人key50
 
-![](https://medias.zaih.com/a6c2b0a2ecbbf14d8e7225e01b3c_1024x768.jpeg)
+![](http://7xq6al.com1.z0.glb.clouddn.com/renmaitu.jpeg)
 
 
